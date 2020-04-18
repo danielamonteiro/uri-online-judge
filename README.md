@@ -1,2 +1,2 @@
-# uri_online_judge
+# uri-online-judge
 Resoluções de problemas do URI online judge.
